@@ -1,0 +1,12 @@
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\obj\Debug\netcoreapp2.0\AtividadeConsole.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\obj\Debug\netcoreapp2.0\AtividadeConsole.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\obj\Debug\netcoreapp2.0\AtividadeConsole.AssemblyInfo.cs
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\bin\Debug\netcoreapp2.0\AtividadeConsole.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\bin\Debug\netcoreapp2.0\AtividadeConsole.runtimeconfig.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\bin\Debug\netcoreapp2.0\AtividadeConsole.runtimeconfig.dev.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\bin\Debug\netcoreapp2.0\AtividadeConsole.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\bin\Debug\netcoreapp2.0\AtividadeConsole.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\bin\Debug\netcoreapp2.0\AtividadePOO2.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\bin\Debug\netcoreapp2.0\AtividadePOO2.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\obj\Debug\netcoreapp2.0\AtividadeConsole.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadeConsole\obj\Debug\netcoreapp2.0\AtividadeConsole.pdb
